@@ -2,6 +2,7 @@
 
 # Installation
 conda install -n yourenvname [package]
+(conda install -n env-conda-3-7 [package])
 
 # Starting notebook server
 jupyter notebook
@@ -10,3 +11,4 @@ jupyter notebook
 
 # Starting conda environment
 source activate yourenvname
+(source activate env-conda-3-7)
