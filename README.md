@@ -9,9 +9,12 @@ jupyter notebook
 (Markdown CheatSheet)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
 (Magic Commands)[https://ipython.readthedocs.io/en/stable/interactive/magics.html]
 
-# Starting conda environment
+# conda environment
+## Starting
 source activate yourenvname
 (source activate env-conda-3-7)
+## Stopping
+source deactivate
 
 # Cheat Sheets
 [SciKit-Learn](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf)
